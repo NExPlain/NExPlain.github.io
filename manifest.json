@@ -1,6 +1,6 @@
 {
-    "name": "plasma_doc",
-    "short_name": "plasma_doc",
+    "name": "Plasma AI",
+    "short_name": "Plasma AI",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
